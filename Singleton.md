@@ -4,4 +4,4 @@ Algunas clases que generalmente son parte fundamental de un programa no deben ex
 # Implementacion segun lenguaje
 la mayoria de lenguajes contienen los implementos necesartios para realizar el singleton que consiste en la modificacion del metodo constructor con un condicional o la creacion de una interfaz que permita ocultar el constructor de cara a evitar la instanciacion.
 # Variantes
-Existe uina variante de singleton llamada pool de objetos que consiste en no limitar la creacion de objetos a uno sino a un conjunto finito de objetos que varian de uso y disponibilidad segun la ejecucion del programa y las peticiones del cliente.
+Existe uina variante de singleton llamada pool de objetos que consiste en no limitar la creacion de objetos a uno sino a un conjunto finito de objetos que varian de uso y disponibilidad segun la ejecucion del programa y las peticiones del cliente.<br/>
